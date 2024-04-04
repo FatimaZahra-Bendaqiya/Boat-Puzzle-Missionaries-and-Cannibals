@@ -1,8 +1,3 @@
-"""
-This a game of Helping Missionaries & Cannibals made by Fatima-Zahra
-Bendaqiya, the aim is to get all the characters from one side
-of the river to the other one.
-"""
 import pygame
 import sys
 
